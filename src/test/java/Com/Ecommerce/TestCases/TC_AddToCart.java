@@ -16,22 +16,22 @@ public class TC_AddToCart extends Ecommerce_BaseClass {
 
 	@Test
 	public void AddProduct() throws InterruptedException {
-
-//		logger.info("Open application URL");
-//		LoginTestCases LT = new LoginTestCases();
 //
-//		LT.LoginButton();
-//		logger.info("Click on the login button");
-//		// logger.info("Click on the Login button");
-//		LT.SetUserEmail();
-//		logger.info("Enter the user  email");
-//
-//		LT.SetUserPass();
-//		logger.info("Enter the user password");
-//
-//		LT.userLoginButton();
-//		logger.info("Click on the user login button");
-//		
+////		logger.info("Open application URL");
+////		LoginTestCases LT = new LoginTestCases();
+////
+////		LT.LoginButton();
+////		logger.info("Click on the login button");
+////		// logger.info("Click on the Login button");
+////		LT.SetUserEmail();
+////		logger.info("Enter the user  email");
+////
+////		LT.SetUserPass();
+////		logger.info("Enter the user password");
+////
+////		LT.userLoginButton();
+////		logger.info("Click on the user login button");
+////		
 		TC_Ecommerce_AddToCart TEA = new TC_Ecommerce_AddToCart();
 		
 		//Action & Actions
@@ -41,7 +41,11 @@ public class TC_AddToCart extends Ecommerce_BaseClass {
 		WebElement Computer = driver.findElement(By.xpath("//a[contains(text(),'Computers ')]"));
 
 		Act.moveToElement(Computer).perform();
-		
+		Actions Act1 = new Actions(driver);
+
+		WebElement Computer1 = driver.findElement(By.xpath("//a[contains(text(),'Computers ')]"));
+
+		Act.moveToElement(Computer).perform();
 		logger.info("Mouseover on computer");
 
 		TEA.NoteBook();
