@@ -63,6 +63,7 @@ public class Ecommerce_BaseClass {
 		driver.get(BaseURL);
 
 		logger.info("Open application");
+		logger.info("hello");
 	}
 
 	@AfterMethod
