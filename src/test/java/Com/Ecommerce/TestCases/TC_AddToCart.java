@@ -41,10 +41,7 @@ public class TC_AddToCart extends Ecommerce_BaseClass {
 		WebElement Computer = driver.findElement(By.xpath("//a[contains(text(),'Computers ')]"));
 
 		Act.moveToElement(Computer).perform();
-		Actions Act1 = new Actions(driver);
-
-		WebElement Computer1 = driver.findElement(By.xpath("//a[contains(text(),'Computers ')]"));
-
+		
 		Act.moveToElement(Computer).perform();
 		logger.info("Mouseover on computer");
 
