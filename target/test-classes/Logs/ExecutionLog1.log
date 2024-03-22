@@ -1,0 +1,99 @@
+2024-03-19 12:19:56,322 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:19:56,468 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:19:57,319 [main] INFO Automation_Framework - Open application
+2024-03-19 12:19:58,255 [main] INFO Automation_Framework - Click on Regiset button
+2024-03-19 12:19:58,404 [main] INFO Automation_Framework - Click on the gender
+2024-03-19 12:19:58,539 [main] INFO Automation_Framework - Enter the first name
+2024-03-19 12:19:58,643 [main] INFO Automation_Framework - Enter the last name
+2024-03-19 12:19:58,861 [main] INFO Automation_Framework - Set the password 
+2024-03-19 12:19:58,974 [main] INFO Automation_Framework - conf the password 
+2024-03-19 12:19:59,894 [main] INFO Automation_Framework - Click on regbutton
+2024-03-19 12:19:59,980 [main] INFO Automation_Framework - Verify verify Reg message
+2024-03-19 12:21:08,608 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:21:08,735 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:21:09,655 [main] INFO Automation_Framework - Open application
+2024-03-19 12:21:10,517 [main] INFO Automation_Framework - Click on Regiset button
+2024-03-19 12:21:10,640 [main] INFO Automation_Framework - Click on the gender
+2024-03-19 12:21:10,774 [main] INFO Automation_Framework - Enter the first name
+2024-03-19 12:21:10,887 [main] INFO Automation_Framework - Enter the last name
+2024-03-19 12:21:11,161 [main] INFO Automation_Framework - Set the password 
+2024-03-19 12:21:11,276 [main] INFO Automation_Framework - conf the password 
+2024-03-19 12:21:12,391 [main] INFO Automation_Framework - Click on regbutton
+2024-03-19 12:21:12,476 [main] INFO Automation_Framework - Verify verify Reg message
+2024-03-19 12:21:19,502 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:21:19,690 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:21:20,534 [main] INFO Automation_Framework - Open application
+2024-03-19 12:21:41,062 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:21:41,197 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:21:42,146 [main] INFO Automation_Framework - Open application
+2024-03-19 12:22:02,724 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:22:02,869 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:22:03,776 [main] INFO Automation_Framework - Open application
+2024-03-19 12:23:27,932 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:23:28,095 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:23:29,543 [main] INFO Automation_Framework - Open application
+2024-03-19 12:23:30,242 [main] INFO Automation_Framework - Click on Regiset button
+2024-03-19 12:23:30,383 [main] INFO Automation_Framework - Click on the gender
+2024-03-19 12:23:30,508 [main] INFO Automation_Framework - Enter the first name
+2024-03-19 12:23:30,603 [main] INFO Automation_Framework - Enter the last name
+2024-03-19 12:23:30,807 [main] INFO Automation_Framework - Set the password 
+2024-03-19 12:23:30,922 [main] INFO Automation_Framework - conf the password 
+2024-03-19 12:23:31,751 [main] INFO Automation_Framework - Click on regbutton
+2024-03-19 12:23:31,838 [main] INFO Automation_Framework - Verify verify Reg message
+2024-03-19 12:23:36,546 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:23:36,693 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:23:38,387 [main] INFO Automation_Framework - Open application
+2024-03-19 12:23:39,036 [main] INFO Automation_Framework - Click on the login button
+2024-03-19 12:23:39,204 [main] INFO Automation_Framework - Enter the user  email
+2024-03-19 12:23:39,376 [main] INFO Automation_Framework - Enter the user password
+2024-03-19 12:23:39,913 [main] INFO Automation_Framework - Click on the user login button
+2024-03-19 12:27:33,369 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:27:33,511 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:27:35,055 [main] INFO Automation_Framework - Open application
+2024-03-19 12:27:36,631 [main] INFO Automation_Framework - Click on the login button
+2024-03-19 12:27:36,810 [main] INFO Automation_Framework - Enter the user  email
+2024-03-19 12:27:36,980 [main] INFO Automation_Framework - Enter the user password
+2024-03-19 12:27:37,868 [main] INFO Automation_Framework - Click on the user login button
+2024-03-19 12:27:37,918 [main] INFO Automation_Framework - Login test case pass
+2024-03-19 12:31:46,998 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:31:47,134 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:31:48,729 [main] INFO Automation_Framework - Open application
+2024-03-19 12:37:46,400 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:37:46,542 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:37:48,150 [main] INFO Automation_Framework - Open application
+2024-03-19 12:37:48,974 [main] INFO Automation_Framework - Click on the login page button
+2024-03-19 12:37:49,166 [main] INFO Automation_Framework - Enter the user email
+2024-03-19 12:37:51,405 [main] INFO Automation_Framework - Enter the user password
+2024-03-19 12:37:52,344 [main] INFO Automation_Framework - Click on the login button
+2024-03-19 12:37:53,393 [main] INFO Automation_Framework - Login test case pass
+2024-03-19 12:37:58,185 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:37:58,323 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:37:59,938 [main] INFO Automation_Framework - Open application
+2024-03-19 12:38:00,661 [main] INFO Automation_Framework - Click on the login page button
+2024-03-19 12:38:00,855 [main] INFO Automation_Framework - Enter the user email
+2024-03-19 12:38:03,165 [main] INFO Automation_Framework - Enter the user password
+2024-03-19 12:38:03,745 [main] INFO Automation_Framework - Click on the login button
+2024-03-19 12:38:03,773 [main] INFO Automation_Framework - Login test case failed
+2024-03-19 12:38:08,309 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:38:08,441 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:38:10,131 [main] INFO Automation_Framework - Open application
+2024-03-19 12:38:10,865 [main] INFO Automation_Framework - Click on the login page button
+2024-03-19 12:38:11,014 [main] INFO Automation_Framework - Enter the user email
+2024-03-19 12:38:13,213 [main] INFO Automation_Framework - Enter the user password
+2024-03-19 12:38:13,772 [main] INFO Automation_Framework - Click on the login button
+2024-03-19 12:38:13,813 [main] INFO Automation_Framework - Login test case failed
+2024-03-19 12:38:18,537 [main] INFO Automation_Framework - Open browser
+2024-03-19 12:38:18,691 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 12:38:20,244 [main] INFO Automation_Framework - Open application
+2024-03-19 12:38:20,976 [main] INFO Automation_Framework - Click on the login page button
+2024-03-19 12:38:21,171 [main] INFO Automation_Framework - Enter the user email
+2024-03-19 12:38:23,393 [main] INFO Automation_Framework - Enter the user password
+2024-03-19 12:38:23,940 [main] INFO Automation_Framework - Click on the login button
+2024-03-19 12:38:23,978 [main] INFO Automation_Framework - Login test case failed
+2024-03-19 19:29:32,359 [main] INFO Automation_Framework - Open browser
+2024-03-19 19:29:32,489 [main] INFO Automation_Framework - Maximize the browser
+2024-03-19 19:29:34,135 [main] INFO Automation_Framework - Open application
+2024-03-19 19:29:35,948 [main] INFO Automation_Framework - Click on the login button
+2024-03-19 19:29:36,138 [main] INFO Automation_Framework - Enter the user  email
+2024-03-19 19:29:36,292 [main] INFO Automation_Framework - Enter the user password
+2024-03-19 19:29:36,773 [main] INFO Automation_Framework - Click on the user login button
